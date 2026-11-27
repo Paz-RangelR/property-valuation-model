@@ -15,7 +15,7 @@
 > ones I would deploy; the numbers describe this synthetic market and nothing
 > else.
 
-**▶ Live demo: <https://property-valuation-model.streamlit.app>** — *first load may take ~40s while the free instance wakes up.*
+**▶ Live demo: <https://property-valuation-model-kovwashtihatfhjlpykcjv.streamlit.app>** — *first load may take ~40s while the free instance wakes up.*
 
 ---
 
