@@ -256,7 +256,7 @@ knowing where to.
 No credentials, no database, no network.
 
 ```bash
-git clone https://github.com/chino-bot1701/property-valuation-model.git
+git clone https://github.com/Paz-RangelR/property-valuation-model.git
 cd property-valuation-model
 pip install -r requirements.txt
 
@@ -313,7 +313,7 @@ docs/*.png                    charts produced by run_demo.py
   and the smallest; the honest options are more data or a wider interval, and
   the repo should say which.
 - **Connect it to the portfolio dashboard.** The parcels valued here are the same
-  ones mapped in [property-portfolio-geo](https://github.com/chino-bot1701/property-portfolio-geo);
+  ones mapped in [property-portfolio-geo](https://github.com/Paz-RangelR/property-portfolio-geo);
   the valuation belongs on the map.
 
 ---
